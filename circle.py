@@ -1,6 +1,7 @@
 import math
 '''Подключил библиотеку math'''
 
+
 def area(r):
     '''Принимает число r(радиус)'''
     return math.pi * r * r
